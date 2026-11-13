@@ -1,0 +1,48 @@
+.text {
+    font-family: 'Rowdies', cursive;
+    color: black;
+    text-align: center;
+    font-size: 30px;
+}
+h1 { 
+    font-family: 'Instrument Serif', serif;
+    color: grey;
+    text-align: center;
+    font-size: 100px;
+}
+.logo{
+    width: 300px;
+    position: 5px 5px 5px 5px;
+    }
+header {
+    background-color: rgb(255, 0, 0);
+    padding: 20px 20px 20px 20px;
+    border-radius: 50px;
+}
+h2 {
+    font-family: Verdana, sans-serif;
+    color: #ff063d;
+    text-align: center;
+    font-size: 50px;
+}
+article {
+    padding: 20px 20px 20px 20px;
+    border-radius: 50px;
+    background-image: url(media/background_image.png);
+    margin-top: 50px;
+}
+.img-article {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 20px 0;
+}
+.button-link {
+    background-color: crimson;
+    padding: 5px 5px 5px 5px;
+    border-radius: 50px;
+}
+.button-link:hover {
+    background-color: fuchsia;
+    border-radius: 50px;
+}
